@@ -8,3 +8,4 @@ Designed a user-friendly dashboard interface accessible to users across differen
 -Visualized Key Performance Indicators (KPIs) in a format that provides a quick overview ofvisual overview of attrition trends, reasons, and effectiveness of retention strategies. Facilitates data-driven decision-making and highlights areas for improvement.
 -Applied relevant Excel functions and formulas to optimize and structure the data for effective visualization.
 
+The following links direct you all to my dashboard:
