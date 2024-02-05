@@ -9,3 +9,4 @@ Designed a user-friendly dashboard interface accessible to users across differen
 -Applied relevant Excel functions and formulas to optimize and structure the data for effective visualization.
 
 The following links direct you all to my dashboard:
+https://drive.google.com/file/d/1vw_kJwnhIafW0GO31bVU900s5Tf7Ww4i/view?usp=sharing
